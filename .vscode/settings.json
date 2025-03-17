@@ -1,0 +1,14 @@
+{
+  "[html][css][json][jsonc][javascript][javascriptreact][typescript][typescriptreact]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "tailwindCSS.classAttributes": [
+    "class",
+    "className",
+    "ngClass",
+    "class:list"
+  ],
+  "tailwindCSS.includeLanguages": {
+    "typescript": "typescriptreact"
+  }
+}

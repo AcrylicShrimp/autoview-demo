@@ -10,10 +10,10 @@
     "prepare": "ts-patch install"
   },
   "dependencies": {
-    "@autoview/agent": "^2.0.1",
-    "@autoview/compiler": "^2.0.1",
-    "@autoview/interface": "^2.0.1",
-    "@autoview/ui": "^2.0.1",
+    "@autoview/agent": "^2.0.6",
+    "@autoview/compiler": "^2.0.6",
+    "@autoview/interface": "^2.0.6",
+    "@autoview/ui": "^2.0.6",
     "lodash": "^4.17.21",
     "next": "^15.2.2",
     "openai": "=4.86.2",

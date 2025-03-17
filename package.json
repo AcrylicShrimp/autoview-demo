@@ -1,0 +1,37 @@
+{
+  "name": "nextjs",
+  "version": "0.1.0",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint",
+    "prepare": "ts-patch install"
+  },
+  "dependencies": {
+    "@autoview/agent": "^1.0.0",
+    "@autoview/compiler": "^1.0.0",
+    "@autoview/interface": "^1.0.0",
+    "@autoview/ui": "^1.0.0",
+    "@types/lodash": "^4.17.16",
+    "@types/node": "20.6.2",
+    "@types/react": "18.2.22",
+    "@types/react-dom": "18.2.7",
+    "autoprefixer": "10.4.15",
+    "eslint": "8.49.0",
+    "eslint-config-next": "13.5.1",
+    "lodash": "^4.17.21",
+    "next": "13.5.1",
+    "postcss": "8.4.30",
+    "react": "18.2.0",
+    "react-dom": "18.2.0",
+    "tailwindcss": "3.3.3"
+  },
+  "devDependencies": {
+    "@ryoppippi/unplugin-typia": "^2.0.3",
+    "ts-patch": "^3.3.0",
+    "typescript": "~5.8.2"
+  }
+}

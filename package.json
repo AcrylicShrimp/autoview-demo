@@ -10,15 +10,14 @@
     "prepare": "ts-patch install"
   },
   "dependencies": {
-    "@autoview/agent": "^2.0.6",
-    "@autoview/compiler": "^2.0.6",
-    "@autoview/interface": "^2.0.6",
-    "@autoview/ui": "^2.0.6",
+    "@autoview/agent": "=2.0.19",
+    "@autoview/ui": "=2.0.19",
     "lodash": "^4.17.21",
     "next": "^15.2.2",
     "openai": "=4.86.2",
     "react": "^19.0.0",
-    "react-dom": "^19.0.0"
+    "react-dom": "^19.0.0",
+    "typia": "^8.0.3"
   },
   "devDependencies": {
     "@ryoppippi/unplugin-typia": "^2.0.3",
